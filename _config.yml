@@ -8,14 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
+email: dominicdelongdesigns@gmail.com
 url: https://www.domdoes.design
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Experience Design . Visual Design . Brand Identity
 color:
   primary-dark: "#000000"
-  links: "#219ab3"
+  links: "#24ffc2"
 footer: Your Website
 social:
 - title: twitter
