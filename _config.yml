@@ -14,17 +14,13 @@ description: Experience Design . Visual Design . Brand Identity
 color:
   primary-dark: "#000000"
   links: "#24ffc2"
-footer: Your Website
+footer: domdoes.design
 social:
 - title: twitter
-  url: https://twitter.com/SBootstrap
+  url: 
 - title: facebook
   url: 
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
-- title: bitbucket
-  url: http://bitbucket.org/jekyll
-- title: github
-  url: https://github.com/IronSummitMedia/startbootstrap
+- title: instagram
+  url: 
 markdown: kramdown
 permalink: pretty
