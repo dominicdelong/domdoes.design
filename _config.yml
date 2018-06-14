@@ -14,5 +14,18 @@ description: Experience Design . Visual Design . Brand Identity
 color:
   primary-dark: "#000000"
   links: "#24ffc2"
+<<<<<<< HEAD
 footer: Your Website
 
+=======
+footer: domdoes.design
+social:
+- title: twitter
+  url: 
+- title: facebook
+  url: 
+- title: instagram
+  url: 
+markdown: kramdown
+permalink: pretty
+>>>>>>> c1398aa2f04843e5248a18cee05a19d6fec34031
